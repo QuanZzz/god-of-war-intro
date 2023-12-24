@@ -8,6 +8,7 @@ Welcome to the God of War introduction website repository. This document provide
 2. Add a new project.
 3. Import Git Repository to Vercel.
 4. Choose the default settings and deploy.
+5. The deployed website link is `https://god-of-war-intro.vercel.app/`
 
 ## Running Locally
 
