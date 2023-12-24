@@ -9,6 +9,7 @@ Welcome to the God of War introduction website repository. This document provide
 3. Import Git Repository to Vercel.
 4. Choose the default settings and deploy.
 5. The deployed website link is `https://god-of-war-intro.vercel.app/`
+6. Visit `https://god-of-war-intro.vercel.app/admin/index.html`, if you want to play around with TinaCMS dashboard.
 
 ## Running Locally
 
